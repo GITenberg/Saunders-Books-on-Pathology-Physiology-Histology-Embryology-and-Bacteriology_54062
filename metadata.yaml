@@ -1,5 +1,8 @@
 _repo: Saunders-Books-on-Pathology-Physiology-Histology-Embryology-and-Bacteriology_54062
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54062-h/images/cover.jpg
 creator:
   author:
     agent_name: W.B. Saunders Company
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47687'
     url: http://www.gutenberg.org/2009/agents/47687
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54062#Saunders-Books-on-Pathology-Physiology-Histology-Embryology-and-Bacteriology
 gutenberg_issued: '2017-01-28'
 gutenberg_type: Text
 identifiers:
