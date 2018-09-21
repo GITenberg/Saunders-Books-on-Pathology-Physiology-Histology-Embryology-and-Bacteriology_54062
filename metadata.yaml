@@ -1,0 +1,25 @@
+_repo: Saunders-Books-on-Pathology-Physiology-Histology-Embryology-and-Bacteriology_54062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: W.B. Saunders Company
+    alias: Saunders (W. B.) Company, Philadelphia
+    gutenberg_agent_id: '47687'
+    url: http://www.gutenberg.org/2009/agents/47687
+description: ''
+gutenberg_issued: '2017-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Bibliography -- Catalogs'
+- !lcsh 'W.B. Saunders Company -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- Pennsylvania -- Philadelphia'
+- GITenberg
+title: Saunders' Books on Pathology, Physiology Histology, Embryology and Bacteriology
+url: http://www.gutenberg.org/ebooks/54062
